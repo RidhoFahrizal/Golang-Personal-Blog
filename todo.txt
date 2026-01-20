@@ -1,0 +1,15 @@
+
+1. buat migration sql  (DONE)
+2. setup DB connection (DONE)
+3. Repository layer (CRUD SQL)
+4. Service (validasi & busioness rule)
+5. Chi router + Handler 
+6. Error Handling & logging
+
+
+
+
+
+
+
+
